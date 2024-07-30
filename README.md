@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ashiah115.
-- 👀 I’m interested in data analysis and visualization.
-- 🌱 I’m currently learning python and R programming languages.
+- 👀 I’m interested in learning programming and cybersecurity.
 
 <!---
 Ashiah115/Ashiah115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
