@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashiah115.
-- 👀 I’m interested in learning programming and cybersecurity.
+- 👀 I’m interested in programming and cybersecurity.
 
 <!---
 Ashiah115/Ashiah115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
